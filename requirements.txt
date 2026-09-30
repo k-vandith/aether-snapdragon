@@ -1,0 +1,5 @@
+# Core pipeline has no third-party dependency.
+# On Snapdragon Windows ARM64, add:
+#   onnxruntime-qnn
+#   qai-hub-models
+# as documented in deploy/WINDOWS_NPU.md
